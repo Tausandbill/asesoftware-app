@@ -1,0 +1,502 @@
+[
+  {
+    "provider_id": 1,
+    "name": "CarePoint 1",
+    "country": "Canada"
+  },
+  {
+    "provider_id": 2,
+    "name": "GlobalMed 2",
+    "country": "Germany"
+  },
+  {
+    "provider_id": 3,
+    "name": "MediCare Plus 3",
+    "country": "Japan"
+  },
+  {
+    "provider_id": 4,
+    "name": "Vitalis 4",
+    "country": "Australia"
+  },
+  {
+    "provider_id": 5,
+    "name": "HealthFirst 5",
+    "country": "Colombia"
+  },
+  {
+    "provider_id": 6,
+    "name": "SaludTotal 6",
+    "country": "South Africa"
+  },
+  {
+    "provider_id": 7,
+    "name": "CarePoint 7",
+    "country": "Japan"
+  },
+  {
+    "provider_id": 8,
+    "name": "SaludTotal 8",
+    "country": "India"
+  },
+  {
+    "provider_id": 9,
+    "name": "MediCare Plus 9",
+    "country": "South Africa"
+  },
+  {
+    "provider_id": 10,
+    "name": "Nippon Care 10",
+    "country": "Colombia"
+  },
+  {
+    "provider_id": 11,
+    "name": "Vitalis 11",
+    "country": "Japan"
+  },
+  {
+    "provider_id": 12,
+    "name": "Vitalis 12",
+    "country": "Japan"
+  },
+  {
+    "provider_id": 13,
+    "name": "Nippon Care 13",
+    "country": "Japan"
+  },
+  {
+    "provider_id": 14,
+    "name": "GlobalMed 14",
+    "country": "Japan"
+  },
+  {
+    "provider_id": 15,
+    "name": "OptimaHealth 15",
+    "country": "Australia"
+  },
+  {
+    "provider_id": 16,
+    "name": "SaludTotal 16",
+    "country": "United States"
+  },
+  {
+    "provider_id": 17,
+    "name": "SaludTotal 17",
+    "country": "Japan"
+  },
+  {
+    "provider_id": 18,
+    "name": "OptimaHealth 18",
+    "country": "Colombia"
+  },
+  {
+    "provider_id": 19,
+    "name": "OptimaHealth 19",
+    "country": "South Africa"
+  },
+  {
+    "provider_id": 20,
+    "name": "Vitalis 20",
+    "country": "Japan"
+  },
+  {
+    "provider_id": 21,
+    "name": "GlobalMed 21",
+    "country": "Colombia"
+  },
+  {
+    "provider_id": 22,
+    "name": "HealthFirst 22",
+    "country": "United Kingdom"
+  },
+  {
+    "provider_id": 23,
+    "name": "MediCare Plus 23",
+    "country": "Colombia"
+  },
+  {
+    "provider_id": 24,
+    "name": "OptimaHealth 24",
+    "country": "Colombia"
+  },
+  {
+    "provider_id": 25,
+    "name": "HealthFirst 25",
+    "country": "Brazil"
+  },
+  {
+    "provider_id": 26,
+    "name": "OptimaHealth 26",
+    "country": "South Africa"
+  },
+  {
+    "provider_id": 27,
+    "name": "CarePoint 27",
+    "country": "United Kingdom"
+  },
+  {
+    "provider_id": 28,
+    "name": "GlobalMed 28",
+    "country": "Germany"
+  },
+  {
+    "provider_id": 29,
+    "name": "WellLife 29",
+    "country": "Colombia"
+  },
+  {
+    "provider_id": 30,
+    "name": "Nippon Care 30",
+    "country": "Colombia"
+  },
+  {
+    "provider_id": 31,
+    "name": "LifeMed 31",
+    "country": "Australia"
+  },
+  {
+    "provider_id": 32,
+    "name": "HealthFirst 32",
+    "country": "India"
+  },
+  {
+    "provider_id": 33,
+    "name": "MediCare Plus 33",
+    "country": "Japan"
+  },
+  {
+    "provider_id": 34,
+    "name": "GlobalMed 34",
+    "country": "South Africa"
+  },
+  {
+    "provider_id": 35,
+    "name": "MediCare Plus 35",
+    "country": "United States"
+  },
+  {
+    "provider_id": 36,
+    "name": "Nippon Care 36",
+    "country": "Canada"
+  },
+  {
+    "provider_id": 37,
+    "name": "WellLife 37",
+    "country": "Japan"
+  },
+  {
+    "provider_id": 38,
+    "name": "OptimaHealth 38",
+    "country": "Colombia"
+  },
+  {
+    "provider_id": 39,
+    "name": "WellLife 39",
+    "country": "South Africa"
+  },
+  {
+    "provider_id": 40,
+    "name": "Vitalis 40",
+    "country": "South Africa"
+  },
+  {
+    "provider_id": 41,
+    "name": "HealthFirst 41",
+    "country": "Colombia"
+  },
+  {
+    "provider_id": 42,
+    "name": "Nippon Care 42",
+    "country": "Canada"
+  },
+  {
+    "provider_id": 43,
+    "name": "OptimaHealth 43",
+    "country": "United Kingdom"
+  },
+  {
+    "provider_id": 44,
+    "name": "WellLife 44",
+    "country": "Australia"
+  },
+  {
+    "provider_id": 45,
+    "name": "SaludTotal 45",
+    "country": "United States"
+  },
+  {
+    "provider_id": 46,
+    "name": "LifeMed 46",
+    "country": "Japan"
+  },
+  {
+    "provider_id": 47,
+    "name": "CarePoint 47",
+    "country": "United States"
+  },
+  {
+    "provider_id": 48,
+    "name": "WellLife 48",
+    "country": "United States"
+  },
+  {
+    "provider_id": 49,
+    "name": "HealthFirst 49",
+    "country": "United States"
+  },
+  {
+    "provider_id": 50,
+    "name": "CarePoint 50",
+    "country": "Australia"
+  },
+  {
+    "provider_id": 51,
+    "name": "WellLife 51",
+    "country": "Japan"
+  },
+  {
+    "provider_id": 52,
+    "name": "GlobalMed 52",
+    "country": "Japan"
+  },
+  {
+    "provider_id": 53,
+    "name": "Vitalis 53",
+    "country": "Canada"
+  },
+  {
+    "provider_id": 54,
+    "name": "Vitalis 54",
+    "country": "Canada"
+  },
+  {
+    "provider_id": 55,
+    "name": "MediCare Plus 55",
+    "country": "Canada"
+  },
+  {
+    "provider_id": 56,
+    "name": "GlobalMed 56",
+    "country": "United States"
+  },
+  {
+    "provider_id": 57,
+    "name": "Nippon Care 57",
+    "country": "United Kingdom"
+  },
+  {
+    "provider_id": 58,
+    "name": "GlobalMed 58",
+    "country": "Japan"
+  },
+  {
+    "provider_id": 59,
+    "name": "HealthFirst 59",
+    "country": "United Kingdom"
+  },
+  {
+    "provider_id": 60,
+    "name": "WellLife 60",
+    "country": "Australia"
+  },
+  {
+    "provider_id": 61,
+    "name": "GlobalMed 61",
+    "country": "Germany"
+  },
+  {
+    "provider_id": 62,
+    "name": "HealthFirst 62",
+    "country": "Brazil"
+  },
+  {
+    "provider_id": 63,
+    "name": "LifeMed 63",
+    "country": "Canada"
+  },
+  {
+    "provider_id": 64,
+    "name": "HealthFirst 64",
+    "country": "Japan"
+  },
+  {
+    "provider_id": 65,
+    "name": "Nippon Care 65",
+    "country": "South Africa"
+  },
+  {
+    "provider_id": 66,
+    "name": "Nippon Care 66",
+    "country": "United States"
+  },
+  {
+    "provider_id": 67,
+    "name": "WellLife 67",
+    "country": "United Kingdom"
+  },
+  {
+    "provider_id": 68,
+    "name": "GlobalMed 68",
+    "country": "Brazil"
+  },
+  {
+    "provider_id": 69,
+    "name": "Vitalis 69",
+    "country": "Japan"
+  },
+  {
+    "provider_id": 70,
+    "name": "Vitalis 70",
+    "country": "Germany"
+  },
+  {
+    "provider_id": 71,
+    "name": "Vitalis 71",
+    "country": "United States"
+  },
+  {
+    "provider_id": 72,
+    "name": "WellLife 72",
+    "country": "South Africa"
+  },
+  {
+    "provider_id": 73,
+    "name": "Vitalis 73",
+    "country": "United Kingdom"
+  },
+  {
+    "provider_id": 74,
+    "name": "LifeMed 74",
+    "country": "Colombia"
+  },
+  {
+    "provider_id": 75,
+    "name": "WellLife 75",
+    "country": "Canada"
+  },
+  {
+    "provider_id": 76,
+    "name": "OptimaHealth 76",
+    "country": "Colombia"
+  },
+  {
+    "provider_id": 77,
+    "name": "Vitalis 77",
+    "country": "Brazil"
+  },
+  {
+    "provider_id": 78,
+    "name": "Vitalis 78",
+    "country": "Canada"
+  },
+  {
+    "provider_id": 79,
+    "name": "LifeMed 79",
+    "country": "Colombia"
+  },
+  {
+    "provider_id": 80,
+    "name": "Vitalis 80",
+    "country": "Germany"
+  },
+  {
+    "provider_id": 81,
+    "name": "OptimaHealth 81",
+    "country": "Colombia"
+  },
+  {
+    "provider_id": 82,
+    "name": "OptimaHealth 82",
+    "country": "Australia"
+  },
+  {
+    "provider_id": 83,
+    "name": "WellLife 83",
+    "country": "Japan"
+  },
+  {
+    "provider_id": 84,
+    "name": "SaludTotal 84",
+    "country": "India"
+  },
+  {
+    "provider_id": 85,
+    "name": "WellLife 85",
+    "country": "United Kingdom"
+  },
+  {
+    "provider_id": 86,
+    "name": "MediCare Plus 86",
+    "country": "United Kingdom"
+  },
+  {
+    "provider_id": 87,
+    "name": "CarePoint 87",
+    "country": "India"
+  },
+  {
+    "provider_id": 88,
+    "name": "Vitalis 88",
+    "country": "Colombia"
+  },
+  {
+    "provider_id": 89,
+    "name": "SaludTotal 89",
+    "country": "United States"
+  },
+  {
+    "provider_id": 90,
+    "name": "CarePoint 90",
+    "country": "United States"
+  },
+  {
+    "provider_id": 91,
+    "name": "Nippon Care 91",
+    "country": "Japan"
+  },
+  {
+    "provider_id": 92,
+    "name": "SaludTotal 92",
+    "country": "South Africa"
+  },
+  {
+    "provider_id": 93,
+    "name": "OptimaHealth 93",
+    "country": "Germany"
+  },
+  {
+    "provider_id": 94,
+    "name": "SaludTotal 94",
+    "country": "Australia"
+  },
+  {
+    "provider_id": 95,
+    "name": "HealthFirst 95",
+    "country": "Colombia"
+  },
+  {
+    "provider_id": 96,
+    "name": "Vitalis 96",
+    "country": "United Kingdom"
+  },
+  {
+    "provider_id": 97,
+    "name": "WellLife 97",
+    "country": "South Africa"
+  },
+  {
+    "provider_id": 98,
+    "name": "Vitalis 98",
+    "country": "Australia"
+  },
+  {
+    "provider_id": 99,
+    "name": "Vitalis 99",
+    "country": "Colombia"
+  },
+  {
+    "provider_id": 100,
+    "name": "GlobalMed 100",
+    "country": "Brazil"
+  }
+]
