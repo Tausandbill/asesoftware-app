@@ -1,7 +1,7 @@
 # asesoftware-app
 APIR REST de prueba tecnica Asesoftware
 
-En la raiz de projecto se encuentra una coleccion de Postman con los endpoint expuesots por esta aplicación
+En la raiz de projecto se encuentra una coleccion de Postman con los endpoint expuestos por esta aplicación
 
 Endpoints:
 - api/token/
